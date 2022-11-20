@@ -4,6 +4,7 @@ Setup:
 
 Create a database, name it as "jobs-manager".
 Execute table creation script "DB_Tables.sql" located at path "Setup/".
+You can find the sample API requests with their details at path "Setup/API Requests".
 
 Softwares and Frameworks:
 
