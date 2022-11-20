@@ -1,0 +1,11 @@
+Method: PUT 
+URL: /api/v1/Jobs/{id}
+
+Request Body:
+{
+    "title": "Implementation",
+    "description": "The Tokyo developer",
+    "locationId": 4,
+    "departmentId": 2,
+    "closingDate": "2021-08-30T18:43:31.877Z"
+}

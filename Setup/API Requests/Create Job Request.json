@@ -1,0 +1,11 @@
+Method: POST 
+URL: /api/v1/Jobs
+
+Request Body:
+{
+    "title": "BA",
+    "description": "Job description here...",
+    "locationId": 2,
+    "departmentId": 1,
+    "closingDate": "2021-08-30T18:43:31.877Z"
+}
