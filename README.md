@@ -3,7 +3,7 @@
 Setup:
 
 Create a database, name it as "jobs-manager".
-Execute table createion script "DB_Tables.sql" located at path "Setup/".
+Execute table creation script "DB_Tables.sql" located at path "Setup/".
 
 Softwares and Frameworks:
 
